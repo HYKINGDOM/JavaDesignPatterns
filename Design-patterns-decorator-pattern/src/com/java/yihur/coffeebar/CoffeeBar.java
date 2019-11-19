@@ -16,7 +16,6 @@ public class CoffeeBar {
     public static void main(String[] args) {
         BaseDrink order;
         System.out.println("****************");
-        order = new Cappuccino(1);
         //一杯低咖
         order = new Decaf(2);
         //加一份牛奶
